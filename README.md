@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Collin
 
-### I'm currently taking a Professional Diploma in Data Science at Lithan Academy in Singapore, I am building a foundation in Data Analytics and plan to move into AI/Machine Learning afterwards
+### I'm currently taking a Professional Diploma in Data Science at Lithan Academy in Singapore, I am building a foundation in Data Analytics and plan to move into AI/Machine Learning afterwards.
 
 I have been a Stand-Up Comedian for 13 years since 2012.
 I worked in various fields during this time doing Stand-Up as well, for example, Events & UX Design. 
